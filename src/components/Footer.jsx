@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Container, Typography } from '@mui/material';
 export default function Footer() {
   return <Box component="footer" className="footer"><Container maxWidth="lg" className="footer-inner">

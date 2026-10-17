@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Container } from '@mui/material';
 import ProjectCard from '../components/ProjectCard.jsx';
 import SectionHeading from '../components/SectionHeading.jsx';

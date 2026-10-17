@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Button, Container, Stack, Typography } from '@mui/material';
 import ArrowForwardRoundedIcon from '@mui/icons-material/ArrowForwardRounded';
 import NorthEastRoundedIcon from '@mui/icons-material/NorthEastRounded';

@@ -1,3 +1,4 @@
+import React from 'react';
 import { Box, Card, CardContent, Chip, Stack, Typography } from '@mui/material';
 import ArrowOutwardRoundedIcon from '@mui/icons-material/ArrowOutwardRounded';
 import { Link as RouterLink } from 'react-router-dom';
