@@ -1,4 +1,4 @@
-# Student Developer Portfolio
+# Student Portfolio
 
 A responsive student portfolio built with React, Vite, Material UI, and React Router.
 
